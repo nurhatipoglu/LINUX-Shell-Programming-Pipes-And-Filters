@@ -1,4 +1,4 @@
-# Linux-Shell-Programming-Pipes-and-Filters-
+# LINUX-Shell-Programming-Pipes-and-Filters
 Shell programming in Linux. Pipe and filter are used.
 
 Komutlar Codes.txt dosyasının içinde bulunmaktadır.
