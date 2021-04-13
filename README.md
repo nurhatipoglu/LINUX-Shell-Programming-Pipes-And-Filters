@@ -1,4 +1,4 @@
-# Linux-Shell-Programming-Pipes-and-Filters-
+# LINUX-Shell-Programming-Pipes-and-Filters
 Shell programming in Linux. Pipe and filter are used.
 Elimizde 5000 satırlı bir veri seti var. Veri seti liste.txt dosyasının içinde bulunmaktadır.
 Rastgele oluşturulan veriler aşağıdaki sütunlardan oluşmaktadır:
