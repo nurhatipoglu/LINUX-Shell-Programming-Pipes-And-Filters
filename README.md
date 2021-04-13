@@ -1,5 +1,7 @@
 # Linux-Shell-Programming-Pipes-and-Filters-
 Shell programming in Linux. Pipe and filter are used.
+
+Komutlar Codes.txt dosyasının içinde bulunmaktadır.
 Elimizde 5000 satırlı bir veri seti var. Veri seti liste.txt dosyasının içinde bulunmaktadır.
 Rastgele oluşturulan veriler aşağıdaki sütunlardan oluşmaktadır:
 1. Öğrenci Numarası, 2. Ad, 3. Soyad, 4. E-Posta, 5. Ders Kodu, 6. Not, 7. Dersi Kaçıncı Alışı
