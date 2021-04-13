@@ -1,0 +1,10 @@
+$ grep CS101 liste.txt>liste2.txt | grep CS102 liste.txt>liste2.txt
+$ grep 2015 liste2.txt>liste3.txt
+$ cat liste3.txt | awk -F ',' 'int($6)>50'>liste4.txt
+$ cat liste4.txt | tr '-' '_'>liste5.txt
+$ sort -t , -k 6 -n liste5.txt>liste6.txt
+$ sort -t , -k 2 liste6.txt>liste7.txt
+$ cat liste7.txt | awk -F ',' 'int($6)<90'| awk -F ',' 'int($7)>1'>liste8.txt
+$ cat liste8.txt | wc -l
+$ echo "$(cat liste8.txt | wc -l) 170419011"
+$ cat liste8.txt | md5sum
