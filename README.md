@@ -22,7 +22,7 @@ Problem
 
 3- liste3.txt dosyasına; listelenmiş liste2.txt dosyası üzerinden 2015 girişlileri listeleyin (egrep ile).
 
-4. liste4.txt dosyasına; listelenmiş liste3.txt dosyası üzerinden 50 ve yukarı not alanları listeleyin. Böylece liste4.txt dosyasının içinde CS101 ve CS102 dersinden 50 ve yukarı not alan 2015 girişliler listelenmiş olmalı. 
+4- liste4.txt dosyasına; listelenmiş liste3.txt dosyası üzerinden 50 ve yukarı not alanları listeleyin. Böylece liste4.txt dosyasının içinde CS101 ve CS102 dersinden 50 ve yukarı not alan 2015 girişliler listelenmiş olmalı. 
 
 5- liste5.txt dosyasına; Filtrelenen öğrencilerin numaralarındaki eksi (-) işaretini alt çizgi (_) ile değiştirin.
  
