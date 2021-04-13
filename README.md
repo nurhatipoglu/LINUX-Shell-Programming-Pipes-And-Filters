@@ -15,23 +15,31 @@ gerekli
 8. herhangi bir dersten 50 altında not alan şartlı geçer. 
 
 Problem
-1-liste.txt isimli veri setini kullanacaksınız
 
-2- liste2.txt dosyasına; CS101 ve CS102 dersinden 50 ve yukarı not alan 2015 girişlileri listeleyin (egrep ile)
+1- liste.txt isimli veri setini kullanacaksınız.
 
-3- liste3.txt dosyasına; Filtrelenen öğrencilerin numaralarındaki eksi (-) işaretini alt çizgi (_) ile değiştirin. Aldıkları puanlara
-göre büyükten küçüğe ve isimlerine göre a'dan z'ye şeklinde sıralayın. Dosyadaki ayıraç karakterinin virgül olduğunu harici olarak belirtin.
+2- liste2.txt dosyasına; CS101 ve CS102 dersini alanları listeleyin.
 
-4- liste4.txt dosyasına; Notu 90'dan küçük olan, dersi 2. defa almış öğrencileri listeleyin (egrep kullanmadan)
+3- liste3.txt dosyasına; listelenmiş liste2.txt dosyası üzerinden 2015 girişlileri listeleyin (egrep ile).
 
-5- liste5.txt dosyasına; Şimdiye kadarki filtrelemenin sonucunda listede kaç öğrenci kaldığını ilgili komut ile ekrana yazdırın.
+4. liste4.txt dosyasına; listelenmiş liste3.txt dosyası üzerinden 50 ve yukarı not alanları listeleyin. Böylece liste4.txt dosyasının içinde CS101 ve CS102 dersinden 50 ve yukarı not alan 2015 girişliler listelenmiş olmalı. 
+
+5- liste5.txt dosyasına; Filtrelenen öğrencilerin numaralarındaki eksi (-) işaretini alt çizgi (_) ile değiştirin.
+ 
+6- liste6.txt dosyasına; Aldıkları puanlara
+göre büyükten küçüğe göre sıralayın.
+
+7- liste7.txt dosyasına; isimlerine göre a'dan z'ye alfabetik şekilnde ve notu 50 den yüksek olanları sıralayın. 
+Dosyadaki ayıraç karakterinin virgül olduğunu harici olarak belirtin.
+
+8- liste8.txt dosyasına; listelenmiş liste7.txt dosyası üzerinden; Notu 90'dan küçük olan, dersi 2. defa almış öğrencileri listeleyin (egrep kullanmadan)
+
+9- Şimdiye kadarki filtrelemenin sonucunda listede kaç öğrenci kaldığını ilgili komut ile ekrana yazdırın.
 (Burada çıktı olarak ekrana satır sayısı yazdırılacaktır)
 
-6- liste6.txt dosyasına; Bulunan satır sayısı ile öğrenci numaranızı arasında boşluk kalacak şekilde ekrana yazdırın
+10- Bulunan satır sayısı ile öğrenci numaranızı arasında boşluk kalacak şekilde ekrana yazdırın.Ekranda örneğin “123 1001011010” şeklinde bir satır görünmelidir.
 
-7- liste7.txt dosyasına; (Ekranda örneğin “123 1001011010” şeklinde bir satır görünmelidir.
-
-8- liste8.txt dosyasına; Çıktınızın md5 hash fonksiyonu ile özetini ekrana yazdırın (örneğin
+11- Çıktınızın md5 hash fonksiyonu ile özetini ekrana yazdırın (örneğin
 9606d1bf8bde301a4ac2136672060a94 gibi..)
 
 
